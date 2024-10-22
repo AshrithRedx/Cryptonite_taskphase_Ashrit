@@ -20,6 +20,6 @@ Every directory has two implicit enteries to refernce in paths - '.' and  '..'.
 **Giving naked paths is invalid in Linux as there might be same programs named with the same name as the system utilities.**
 
 
-The '~' in the terminal indicates the user within the home directory (generall '/home/hacker').
-Only the leading '~' is expanded whenever there is a nesting in the path.
+The "~" in the terminal indicates the user within the home directory (generall '/home/hacker').
+Only the leading "~" is expanded whenever there is a nesting in the path.
 **'cd' uses the home directory as the default destination.**
